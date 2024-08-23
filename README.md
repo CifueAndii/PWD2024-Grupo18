@@ -2,4 +2,4 @@
 MATERIA: Programación Web Dinámica<br>
 Año: 2024<br>
 Grupo: 18<br>
-Integrantes: <tr>Cifuentes Flores Andrés Emanuel</tr><tr>Retamal Juan Ezequiel</tr><tr>Cerda Lucas Gabriel</tr>
+Integrantes: <ul><li>Cifuentes Flores Andrés Emanuel</li><tr>Retamal Juan Ezequiel</tr><tr>Cerda Lucas Gabriel</tr></ul>
